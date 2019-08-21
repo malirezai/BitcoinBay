@@ -8,8 +8,9 @@ Blockchain Workbench Github Repo: https://github.com/Azure-Samples/blockchain
 
 Workbench Webinar: https://1drv.ms/v/s!ArI5vFdaEzMrgnK7gt_Nn2XpOKKp?e=pscdvt
 
-Workbench Intro Video: https://www.youtube.com/watch?v=gwrYspdaOx8
-Workbench Intro Video II: https://www.youtube.com/watch?v=mlRx52p61_g&t=129s
+Workbench Intro Video part 1: https://www.youtube.com/watch?v=gwrYspdaOx8
+
+Workbench Intro Video part 2: https://www.youtube.com/watch?v=mlRx52p61_g&t=129s
 
 Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
 
