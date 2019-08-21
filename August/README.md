@@ -1,6 +1,6 @@
 Resources from the presentation: 
 
-Blockchain Workbench: aka.ms/abcworkbench
+Blockchain Workbench: https://aka.ms/abcworkbench
 
 Blockchain Workbench Github Repo: https://github.com/Azure-Samples/blockchain
 
