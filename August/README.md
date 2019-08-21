@@ -1,4 +1,6 @@
-Resources from the presentation: 
+#Resources from the presentation on August 21 2019
+
+Microsoft Blockchain: https://azure.microsoft.com/en-ca/solutions/blockchain/
 
 Blockchain Workbench: https://aka.ms/abcworkbench
 
