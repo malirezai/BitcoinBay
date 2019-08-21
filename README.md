@@ -1,2 +1,3 @@
-# BitcoinBay
-BitcoinBay Meetup
+# Microsoft/BitcoinBay
+
+Microsoft/BitcoinBay Series of Meetups
