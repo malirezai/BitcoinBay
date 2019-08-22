@@ -16,6 +16,10 @@ Blockchain DevKit: https://github.com/Azure-Samples/blockchain-devkit
 
 Azure Blockchain DevKit for VSCode: https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain
 
+Decentralized Identity: https://www.microsoft.com/en/security/technology/own-your-identity
+
+Decentralized Identity Project Developer Resources: https://didproject.azurewebsites.net/
+
 Channel9 BlockTalk Videos: https://channel9.msdn.com/Shows/Blocktalk
 
 Solidity Training - Cryptozombies: https://cryptozombies.io/
