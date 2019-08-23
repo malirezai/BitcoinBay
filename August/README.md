@@ -28,3 +28,4 @@ Ethereum ReadTheDocs: https://ethereum-solidity.readthedocs.io/en/latest/
 
 Truffle Framework & Suite: https://www.trufflesuite.com/
 
+CCF (Confidential Consortium Framework): https://github.com/microsoft/CCF
